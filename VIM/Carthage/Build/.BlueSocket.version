@@ -1,0 +1,21 @@
+{
+  "Mac" : [
+    {
+      "name" : "Socket",
+      "hash" : "e56bfc642f6ae1570c38ed25d78749ff75fa93388e9bc91fa60988b5d6310bce"
+    }
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "8913ba22906c14358519f9a4c8dbc18a0189aeb1",
+  "iOS" : [
+    {
+      "name" : "Socket",
+      "hash" : "0393d42eaa3e2d4edccc2164161c0bfa6fa5ae97f87424336bec35cdee89411e"
+    }
+  ]
+}

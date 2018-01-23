@@ -1,0 +1,4 @@
+
+github "IBM-Swift/BlueSocket" "master"
+github "hackiftekhar/IQKeyboardManager"
+github "SnapKit/SnapKit"

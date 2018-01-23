@@ -1,0 +1,3 @@
+github "IBM-Swift/BlueSocket" "8913ba22906c14358519f9a4c8dbc18a0189aeb1"
+github "SnapKit/SnapKit" "4.0.0"
+github "hackiftekhar/IQKeyboardManager" "v5.0.7"
